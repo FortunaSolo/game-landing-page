@@ -2,6 +2,7 @@ body{
     margin: 1% 5%;
     color:white;
     background-color: black;
+    font-family: sans-serif;
 }
 header{
     display:flex;
@@ -30,6 +31,7 @@ header button{
     background-color: transparent;
     color: white;
     border: 1px solid white;
+    padding: 1ch 2ch;
 }
 .main {
     display: flex;
